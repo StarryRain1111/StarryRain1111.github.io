@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>旧巷星雨的博客</title>
-    <link>/</link>
+    <title>随笔 on 旧巷星雨的博客</title>
+    <link>/categories/%E9%9A%8F%E7%AC%94/</link>
     <description>Recent content from 旧巷星雨的博客</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Tue, 30 Jun 2026 14:35:00 +0800</lastBuildDate>
     
     
-    <atom:link href="/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
